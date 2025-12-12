@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world-python
-        image: ajaj12/helloworld-github-python
+        image: ajaj12/helloworld-github-python:v1
         ports:
         - containerPort: 8080
